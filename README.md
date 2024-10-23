@@ -1,9 +1,9 @@
 # Project Description
 
 HW5
+This repository contains homework assignments for practicing Git fundamentals. The tasks include initializing a Git repository, creating and managing branches, simulating and resolving merge conflicts, using git stash, and cleaning up the repository. The repository also contains standard files, HTML content modifications, and a detailed PDF documenting the steps performed during the assignment.
 
-Group 47 - 
-
+Group 47 :
 Gaurav Sheth - gpsheth@ncsu.edu
 Soham Gundewar - sgundew@ncsu.edu
 Anish Dhage - adhage@ncsu.edu
